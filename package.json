@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_websockets_server",
+  "version": "1.0.0",
+  "description": "This is my first WebSockerServer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emre Kayikcilar",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^3.3.3"
+  }
+}
